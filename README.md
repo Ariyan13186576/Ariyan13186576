@@ -36,7 +36,13 @@ Feel free to reach out to me via [WhatsApp](https://wa.me/01313186576) or connec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NazmusSakib2036&theme=dark&hide_border=false)<br/>
 
 ## Top Languages Used:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NazmusSakib2036&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6&hide=python,c,c++)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
 
 
 ## 🏆 GitHub Trophies
