@@ -36,6 +36,7 @@ Feel free to reach out to me via [WhatsApp](https://wa.me/01313186576) or connec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NazmusSakib2036&theme=dark&hide_border=false)<br/>
 
 ## Top Languages Used:
+
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
@@ -43,7 +44,14 @@ Feel free to reach out to me via [WhatsApp](https://wa.me/01313186576) or connec
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
+### Web Development Tools
 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NazmusSakib2036&theme=radical&no-frame=false&no-bg=true&margin-w=4)
